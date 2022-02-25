@@ -1,5 +1,6 @@
 # tweetsearch
 A Twitter's Search Engine.
+![alt text](./tweetsearch/dist/tweetsearch_logo.png)
 
 ## Report
 Here you can find the report and the presentation I made for this project.
